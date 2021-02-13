@@ -1,0 +1,9 @@
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\MSDA\Workspace_Web_Api\Workspace_Models\bin\Debug\netcoreapp3.1\Workspace_Models.deps.json
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\MSDA\Workspace_Web_Api\Workspace_Models\bin\Debug\netcoreapp3.1\Workspace_Models.dll
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\MSDA\Workspace_Web_Api\Workspace_Models\bin\Debug\netcoreapp3.1\Workspace_Models.pdb
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\MSDA\Workspace_Web_Api\Workspace_Models\obj\Debug\netcoreapp3.1\Workspace_Models.csprojAssemblyReference.cache
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\MSDA\Workspace_Web_Api\Workspace_Models\obj\Debug\netcoreapp3.1\Workspace_Models.AssemblyInfoInputs.cache
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\MSDA\Workspace_Web_Api\Workspace_Models\obj\Debug\netcoreapp3.1\Workspace_Models.AssemblyInfo.cs
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\MSDA\Workspace_Web_Api\Workspace_Models\obj\Debug\netcoreapp3.1\Workspace_Models.csproj.CoreCompileInputs.cache
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\MSDA\Workspace_Web_Api\Workspace_Models\obj\Debug\netcoreapp3.1\Workspace_Models.dll
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\MSDA\Workspace_Web_Api\Workspace_Models\obj\Debug\netcoreapp3.1\Workspace_Models.pdb

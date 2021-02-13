@@ -1,0 +1,15 @@
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\MSDA\Workspace_Web_Api\Workspace_DAL\bin\Debug\netcoreapp3.1\Workspace_DAL.deps.json
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\MSDA\Workspace_Web_Api\Workspace_DAL\bin\Debug\netcoreapp3.1\Workspace_DAL.runtimeconfig.json
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\MSDA\Workspace_Web_Api\Workspace_DAL\bin\Debug\netcoreapp3.1\Workspace_DAL.runtimeconfig.dev.json
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\MSDA\Workspace_Web_Api\Workspace_DAL\bin\Debug\netcoreapp3.1\Workspace_DAL.dll
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\MSDA\Workspace_Web_Api\Workspace_DAL\bin\Debug\netcoreapp3.1\Workspace_DAL.pdb
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\MSDA\Workspace_Web_Api\Workspace_DAL\bin\Debug\netcoreapp3.1\Workspace_Models.dll
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\MSDA\Workspace_Web_Api\Workspace_DAL\bin\Debug\netcoreapp3.1\Workspace_Models.pdb
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\MSDA\Workspace_Web_Api\Workspace_DAL\obj\Debug\netcoreapp3.1\Workspace_DAL.csprojAssemblyReference.cache
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\MSDA\Workspace_Web_Api\Workspace_DAL\obj\Debug\netcoreapp3.1\Workspace_DAL.AssemblyInfoInputs.cache
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\MSDA\Workspace_Web_Api\Workspace_DAL\obj\Debug\netcoreapp3.1\Workspace_DAL.AssemblyInfo.cs
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\MSDA\Workspace_Web_Api\Workspace_DAL\obj\Debug\netcoreapp3.1\Workspace_DAL.csproj.CoreCompileInputs.cache
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\MSDA\Workspace_Web_Api\Workspace_DAL\obj\Debug\netcoreapp3.1\Workspace_DAL.csproj.CopyComplete
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\MSDA\Workspace_Web_Api\Workspace_DAL\obj\Debug\netcoreapp3.1\Workspace_DAL.dll
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\MSDA\Workspace_Web_Api\Workspace_DAL\obj\Debug\netcoreapp3.1\Workspace_DAL.pdb
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\MSDA\Workspace_Web_Api\Workspace_DAL\obj\Debug\netcoreapp3.1\Workspace_DAL.genruntimeconfig.cache
